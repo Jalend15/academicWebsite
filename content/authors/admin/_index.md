@@ -77,6 +77,17 @@ email: 'jalend.bantupalli@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+---
+widget: about
+headless: true  # This file represents a page section.
 
+# Put Your Section Options Here (title, background etc.)
+title: Biography
+weight: 10 # Position of section on page
+
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+author: 'admin'
+---
 Hi! I am Jalend Bantupalli. My name means reflection of moon in the water. I am interested in developing solutions to complex problems in Information Retrieval and MultiLingual NLP
 {style="text-align: justify;"}
