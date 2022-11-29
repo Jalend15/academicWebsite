@@ -22,20 +22,11 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 
 
-Explored the role of online religious organisations in twitter and focused on a variety of hostile posts in Hindi
-Devanagari Script.
 
-Developed a model for Hostile speech detection and created a new dataset for hostility detection.
 
-Formulated a metric called hate score which indicates how hostile a certain post is
+Explored the role of online religious organisations in twitter and focused on a variety of hostile posts in Hindi Devanagari Script. Developed a model for Hostile speech detection and created a new dataset for hostility detection. Formulated a metric called hate score which indicates how hostile a certain post is
 
