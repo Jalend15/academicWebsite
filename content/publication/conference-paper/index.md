@@ -49,13 +49,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2209.03089.pdf'
-<!-- url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com' -->
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -69,9 +69,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-<!-- projects:
-  - example
- -->
+# projects:
+# - example
+# 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -88,4 +88,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+#  Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/)
