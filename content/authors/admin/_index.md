@@ -33,12 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech in Electronics and Electrical Communication Engineering
+    - course: B.Tech in Electronics and Electrical Communication Engineering | Minor in Computer Science and Engineering
       institution: IIT Kharagpur
       year: 2022
-    - course: Minor in Computer Science and Engineering
-      institution: IIT Kharagpur
-      year: 2022  
     
 
 # Social/Academic Networking
