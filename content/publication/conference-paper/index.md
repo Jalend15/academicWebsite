@@ -38,7 +38,7 @@ abstract: Demographic classification is essential in fairness assessment in reco
 understand the efficacy of the above models. We also perform an error analysis of the prediction models. Finally, we attempt to assess the bias in the existing Indian system as case studies and find some intriguing patterns manifesting in the complex demographic layout of the sub-continent across the dimensions of gender and caste.
 
 # Summary. An optional shortened abstract.
-#summary: 
+summary: 
 
 tags: []
 
