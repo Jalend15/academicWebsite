@@ -17,5 +17,5 @@ main:
     url: '#projects'
     weight: 30
   - name: CV
-    url: uploads/FAANGPath_Jalend.pdf
+    url: uploads/resume.pdf
     weight: 70
