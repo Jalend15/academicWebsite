@@ -31,8 +31,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Social Informatics, 2022*
-publication_short: In *SocInfo'22*
+publication: *Social Informatics, 2022*
+publication_short: *SocInfo'22*
 
 abstract: ''
 
