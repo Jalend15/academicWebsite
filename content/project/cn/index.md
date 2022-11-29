@@ -1,6 +1,6 @@
 ---
 title: Combatting Online Hostile Posts in Regional Languages 
-summary: 
+summary: Explored the role of online religious organisations in twitter 
 tags:
   - Complex Networks
 date: '2016-04-01T00:00:00Z'
