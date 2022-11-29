@@ -1,15 +1,20 @@
 ---
-title: 'An example conference paper'
+title: 'Decoding Demographic un-fairness
+from Indian Names'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Vahini Medidoddi
   - admin
-  - Robert Ford
+  - Souvic Chakraborty
+  - Animesh Mukherjee
 
 # Author notes (optional)
 author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
 
@@ -26,13 +31,14 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Social Informatics, 2022*
+publication_short: In *SocINFO*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Demographic classification is essential in fairness assessment in recommender systems or in measuring unintended bias in online networks and voting systems. Important fields like education and politics, which often lay a foundation for the future of equality in society, need scrutiny to design policies that can better foster equality in resource distribution constrained by the unbalanced demographic distribution of people in the country. We collect three publicly available datasets to train state-of-the-art classifiers in the domain of gender and caste classification. We train the models in the Indian context, where the same name can have different styling conventions (Jolly Abraham/Kumar Abhishikta in one state may be written as Abraham Jolly/Abishikta Kumar in the other). Finally, we also perform cross-testing (training and testing on different datasets) to
+understand the efficacy of the above models. We also perform an error analysis of the prediction models. Finally, we attempt to assess the bias in the existing Indian system as case studies and find some intriguing patterns manifesting in the complex demographic layout of the sub-continent across the dimensions of gender and caste.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: 
 
 tags: []
 
@@ -44,14 +50,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://arxiv.org/pdf/2209.03089.pdf'
+<!-- url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_video: 'https://youtube.com' -->
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,9 +71,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+<!-- projects:
   - example
-
+ -->
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -84,4 +90,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
