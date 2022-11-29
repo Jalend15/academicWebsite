@@ -1,6 +1,6 @@
 ---
 title: Sarcasm Detection
-summary: 
+summary: Classified text as sarcasm based on contextual parameters
 tags:
   - NLP
 date: '2016-04-01T00:00:00Z'
