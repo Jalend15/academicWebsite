@@ -19,7 +19,7 @@ content:
       - publication
     tag: 'NLP'
     category: ''
-    publication_type: 'conference-paper'
+    publication_type: '1'
     author: ''
     exclude_featured: false
     exclude_future: false
@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+#{{% callout note %}}
+#Quickly discover relevant content by [filtering publications](./publication/).
+#{{% /callout %}}
 
