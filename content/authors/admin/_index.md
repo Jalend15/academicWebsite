@@ -33,8 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech 
-              Major in ECE 
+    - course: B.Tech in ECE\
               Minor in Computer Science and Engineering
       institution: IIT Kharagpur
       year: 2022
