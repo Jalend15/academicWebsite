@@ -16,23 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: java
-    icon_pack: fab
-    name: Java
-  - description: 70%
-    icon: image
-    icon_pack: fas
-    name: Image Processing
-  - description: 50%
-    icon: music
-    icon_pack: fas
-    name: Dance
-  - description: 90%
+  - description: 
     icon: c
     icon_pack: fab
     name: C/C++
-  - description: 90%
+  - description: 
     icon: python
     icon_pack: fab
     name: Python 
