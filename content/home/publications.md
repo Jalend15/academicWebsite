@@ -17,9 +17,9 @@ content:
   filters:
     folders:
       - publication
-    tag: 'image processing'
+    tag: 'NLP'
     category: ''
-    publication_type: 'Preprint'
+    publication_type: 'conference-paper'
     author: ''
     exclude_featured: false
     exclude_future: false
