@@ -1,6 +1,6 @@
 ---
 title: Rumour and Stance Classification on PHEME-RNR Dataset
-summary: 
+summary: Incorporated stance classification in Tree LSTM-based rumour detection 
 tags:
   - IR
 date: '2016-11-01T00:00:00Z'
