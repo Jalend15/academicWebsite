@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Application Developer
-    company: Oracle 
+  - title: Software Engineer
+    company: Google 
     company_url: ''
-    company_logo: oracle_logo_icon_168918
-    location: Hyderabad, India
-    date_start: '2022-07-21'
+    company_logo: google_logo
+    location: Bengaluru, India
+    date_start: '2022-07-04'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Machine Learning Intern
-    company: Felix Health Care
+  - title: Software Engineer Intern
+    company: Microsoft
     company_url: ''
-    company_logo: big_logo
-    location: Bengaluru, India
-    date_start: '2020-06-01'
-    date_end: '2020-08-31'
-    description: Worked on Forgery detection in Images using Machine Learning
+    company_logo: microsoft_logo
+    location: Hyderabad, India
+    date_start: '2020-05-10'
+    date_end: '2020-07-04'
+    description: Worked on devloping the config entity
 
 design:
   columns: '2'
