@@ -69,7 +69,7 @@ email: 'jalend.bantupalli@gmail.com'
 highlight_name: true
 ---
 
-Hi! I am Jalend Bantupalli. If you are wondering what my name means, it means "moonlight shining on water". 
+Hi! I am Jalend Bantupalli. If you are wondering what my name means, it means "moonlight shining on water". I graduated from IIT Kharagpur in 2022.
 
 I am interested in working on exciting problems in Natural Language Processing, Information Retrieval, and Machine Learning.
 {style="text-align: justify;"}
