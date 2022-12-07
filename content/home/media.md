@@ -17,8 +17,9 @@ content:
   filters:
     folders:
       - media
-    tag: 'ICSE'
+    tag: 'NLP'
     category: ''
+    publication_type: 1
     author: ''
     exclude_featured: false
     exclude_future: false
