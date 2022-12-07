@@ -71,5 +71,5 @@ highlight_name: true
 
 Hi! I am Jalend Bantupalli. If you are wondering what my name means, it means "moonlight shining on water". 
 
-I am interested to work on exciting problems in Natural Language Processing, Information Retrieval, and Machine Learning.
+I am interested in working on exciting problems in Natural Language Processing, Information Retrieval, and Machine Learning.
 {style="text-align: justify;"}
