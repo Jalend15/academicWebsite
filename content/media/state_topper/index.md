@@ -2,8 +2,8 @@
 title: ICSE State Topper
 summary: Andhra Pradesh State topper
 tags:
-  - NLP
-date: '2016-04-01T00:00:00Z'
+  - ICSE
+date: '2016-05-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,14 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Explored the role of gender and caste on registrations and marks of CBSE Board examination from extracted
-CBSE data
 
-Predicted gender on CBSE data using a fine tuned Char-BERT Model with word embeddings with an accu-
-racy of 95%
-
-Extracted the electoral list dataset of India in order to study the demographic changes over time and caste
-dynamics
 
 
 
