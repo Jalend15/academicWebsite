@@ -37,8 +37,8 @@ experience:
     company_url: ''
     company_logo: microsoft_logo
     location: Hyderabad, India
-    date_start: '2020-05-10'
-    date_end: '2020-07-04'
+    date_start: '2021-05-10'
+    date_end: '2021-07-04'
     description: Project: Config entity 
         * Designed a centralized system to reduce the time needed for onboarding features to a single flip.
         
