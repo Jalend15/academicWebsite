@@ -1,6 +1,6 @@
 ---
-title: Named-based Supervised Learning
-summary: Developed classification models to discover bias against gender and caste in education and social media.
+title: ICSE State Topper
+summary: Andhra Pradesh State topper
 tags:
   - NLP
 date: '2016-04-01T00:00:00Z'
