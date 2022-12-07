@@ -30,11 +30,7 @@ experience:
     date_start: '2022-07-04'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * C++ and Python developer working on improving switch reliability as part of the Networking team.
 
   - title: Software Engineer Intern
     company: Microsoft
@@ -43,7 +39,7 @@ experience:
     location: Hyderabad, India
     date_start: '2020-05-10'
     date_end: '2020-07-04'
-    description: Worked on devloping the config entity
+    description: Worked on developing the config entity
 
 design:
   columns: '2'
