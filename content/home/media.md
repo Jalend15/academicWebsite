@@ -11,8 +11,11 @@ weight: 70
 
 title: Media
 subtitle: ''
-
 content:
+  # Filter on criteria
+  filters:
+    folders:
+      - media
   # Page type to display. E.g. project.
   page_type: media
 
