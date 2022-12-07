@@ -39,7 +39,7 @@ experience:
     location: Hyderabad, India
     date_start: '2021-05-10'
     date_end: '2021-07-04'
-    description: Project: Config entity 
+    description: |2-
         * Designed a centralized system to reduce the time needed for onboarding features to a single flip.
         
 
